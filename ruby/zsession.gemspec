@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["bascule@gmail.com"]
   spec.homepage      = "https://github.com/zcred/zcred/tree/master/ruby/"
   spec.summary       = "Session tokens based on the zcred credential format"
-  spec.description   = "A lightweight implementation of zcreds designed specifically for the session token use case"
+  spec.description   = "Lightweight implementation of zcreds providing advanced session tokens"
   spec.files         = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }
   spec.bindir        = "exe"
   spec.executables   = spec.files.grep(%r{^exe/}) { |f| File.basename(f) }

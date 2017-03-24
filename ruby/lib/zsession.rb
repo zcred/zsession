@@ -1,5 +1,5 @@
 require "zsession/version"
 
-# A lightweight implementation of zcreds designed specifically for the session token use case
+# Lightweight implementation of zcreds providing advanced session tokens
 module Zsession
 end
