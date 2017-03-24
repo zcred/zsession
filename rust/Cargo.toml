@@ -1,0 +1,13 @@
+[package]
+name        = "zsession"
+description = "Lightweight implementation of zcreds providing advanced session tokens"
+version     = "0.0.0"
+license     = "MIT"
+authors     = ["Tony Arcieri <bascule@gmail.com>"]
+homepage    = "https://www.zcred.org"
+repository  = "https://github.com/zcred/zsession"
+readme      = "README.md"
+categories  = ["authentication","cryptography"]
+keywords    = ["authentication", "cryptography", "security", "serialization", "merkle"]
+
+[dependencies]

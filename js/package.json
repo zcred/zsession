@@ -1,7 +1,7 @@
 {
   "name": "zsession",
   "version": "0.0.0",
-  "description": "A lightweight implementation of zcreds designed specifically for the session token use case",
+  "description": "Lightweight implementation of zcreds providing advanced session tokens",
   "main": "index.js",
   "scripts": {
     "test": "./node_modules/.bin/mocha --reporter spec"
