@@ -1,0 +1,29 @@
+{
+  "name": "zsession",
+  "version": "0.0.0",
+  "description": "A lightweight implementation of zcreds designed specifically for the session token use case",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zcred/zsession.git"
+  },
+  "keywords": [
+    "authorization",
+    "credential",
+    "token",
+    "authentication",
+    "session"
+  ],
+  "author": "Tony Arcieri",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zcred/zsession/issues"
+  },
+  "homepage": "https://github.com/zcred/zsession#readme",
+  "dependencies": {
+    "mocha": "^3.1.2"
+  }
+}
