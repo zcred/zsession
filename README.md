@@ -18,20 +18,14 @@ Nothing to see here yet. You might check out [zser] or [zcreds] for now.
 
 Packages implementing zser are available for the following languages:
 
-| Language               | Version                              | Status         |
-|------------------------|--------------------------------------|----------------|
-| [JavaScript][npm-link] | [![npm][npm-shield]][npm-link]       | :broken_heart: |
-| [Ruby][gem-link]       | [![gem][gem-shield]][gem-link]       | :broken_heart: |
-| [Rust][crate-link]     | [![crate][crate-shield]][crate-link] | :broken_heart: |
+| Language               | Version                              |
+|------------------------|--------------------------------------|
+| [Go][go-link]          | N/A                                  |
+| [JavaScript][npm-link] | [![npm][npm-shield]][npm-link]       |
+| [Ruby][gem-link]       | [![gem][gem-shield]][gem-link]       |
+| [Rust][crate-link]     | [![crate][crate-shield]][crate-link] |
 
-**Status Legend**
-
-| Heart          | Description              |
-|----------------|--------------------------|
-| :green_heart:  | Stable and full-featured |
-| :yellow_heart: | Working with some issues |
-| :broken_heart: | Not yet usable           |
-
+[go-link]: https://github.com/zcred/zsession/tree/master/go
 [npm-shield]: https://img.shields.io/npm/v/zsession.svg
 [npm-link]: https://www.npmjs.com/package/zsession
 [gem-shield]: https://badge.fury.io/rb/zsession.svg
